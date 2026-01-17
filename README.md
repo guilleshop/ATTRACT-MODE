@@ -5,6 +5,8 @@ Please make sure you review the layout options/config screens, as most aspects o
 Also I am providing PopupInfo plugin, which is a very helpful addition to overlay game info at the press of a button.
 
 
-
 HyperNut:
 ![Preview](hypernut.jpg)
+
+SplitNut:
+![Preview](splitnut.jpg)
